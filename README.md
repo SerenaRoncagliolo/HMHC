@@ -1,4 +1,4 @@
-# Obstacle detection and tracking in maritime environments
+# From Human Motion to Humanoid Control - LAB
 
 *For further information about the project read the "HMCH_report.pdf" document.*
 
